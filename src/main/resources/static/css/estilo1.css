@@ -33,7 +33,7 @@
     position: absolute;
     top: 12%;
     left: 0;
-    height: 81%;
+    height: 85%;
     width: 15%;
     background-color: bisque;
     color: black;
@@ -42,7 +42,7 @@
     position: absolute;
     top: 12%;
     left: 15%;
-    height: 81%;
+    height: 85%;
     width: 85%;
     background-color: black;
     color: whitesmoke;
@@ -52,7 +52,7 @@
     position: absolute;
     bottom: 0;
     left: 0;
-    height: 7%;
+    height: 3%;
     width: 100%;
     background-color: #1ef1ea;
     color: black;
